@@ -16,7 +16,7 @@ MariaDB, PostgreSQL, MySQL, MongoDB
 
 ## Education
 - Master's of Computer Science | North Carolina State University (_May 2025_)
-- Bachelor's of Technology in Computer Science and Engineering | Vellore Institute of Technology, Vellore (_May 2023_)
+- Bachelor's of Technology in Computer Science | Vellore Institute of Technology, Vellore (_May 2023_)
 
 ## Work Experience
 **Software Development Engineer Intern @ Petrus Technologies (_Nov 2022 - Mar 2023_)**

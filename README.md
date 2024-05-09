@@ -2,21 +2,9 @@
 
 I'm Rithvik, currently pursuing Masters in Computer Science at NC State University. I am actively looking for 2024 software engineering summer internships. Feel free to reach out to me at my [email](rithvikayithapu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rithvikayithapu/).
 
-## Skills
-### Languages
-Java, Python, Go, C/C++, JavaScript, HTML, CSS
-### Frameworks and Tools
-REST API, AWS, Git, Spring Boot, Express.js, gRPC, Docker, Kubernetes, Kafka, React, Tailwind CSS
-### Operating Systems
-Linux, Unix, Windows
-### Databases
-MariaDB, PostgreSQL, MySQL, MongoDB
-### Certifications
-[AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/JLXMLFLDBNB4QBWS), [Udacity SUSE Cloud Native Architecture Nanodegree](https://www.udacity.com/certificate/GXDRCYAE)
-
 ## Education
-- Master's of Computer Science | North Carolina State University (_May 2025_)
-- Bachelor's of Technology in Computer Science | Vellore Institute of Technology, Vellore (_May 2023_)
+ Master's of Computer Science | North Carolina State University (_May 2025_)
+ Bachelor's of Technology in Computer Science | Vellore Institute of Technology, Vellore (_May 2023_)
 
 ## Work Experience
 ### Software Development Engineer Intern @ Petrus Technologies (_Nov 2022 - Mar 2023_)
@@ -29,6 +17,18 @@ MariaDB, PostgreSQL, MySQL, MongoDB
 - Leveraged **React** to develop a portal for effortless data manipulation. Previously product team used Curl requests.
 - Scraped and summarized JSON data of Cricket matches with **Python** and queried it with **S3 Select** to boost social media engagement.
 - Implemented bug fixes and features on the application backend utilizing **Java, Dropwizard and MongoDB**.
+
+## Skills
+### Languages
+Java, Python, Go, C/C++, JavaScript, HTML, CSS
+### Frameworks and Tools
+REST API, AWS, Git, Spring Boot, Express.js, gRPC, Docker, Kubernetes, Kafka, React, Tailwind CSS
+### Operating Systems
+Linux, Unix, Windows
+### Databases
+MariaDB, PostgreSQL, MySQL, MongoDB
+### Certifications
+[AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/JLXMLFLDBNB4QBWS), [Udacity SUSE Cloud Native Architecture Nanodegree](https://www.udacity.com/certificate/GXDRCYAE)
 
 ## Projects
 **NDB Operator - Backend, Cloud Development**

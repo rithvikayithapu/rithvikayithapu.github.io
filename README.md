@@ -3,8 +3,8 @@
 I'm Rithvik, currently pursuing Masters in Computer Science at NC State University. I am actively looking for 2024 software engineering summer internships. Feel free to reach out to me at my [email](rithvikayithapu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rithvikayithapu/).
 
 ## Education
- Master's of Computer Science | North Carolina State University (_May 2025_)
- Bachelor's of Technology in Computer Science | Vellore Institute of Technology, Vellore (_May 2023_)
+- Master's of Computer Science | North Carolina State University (_May 2025_)
+- Bachelor's of Technology in Computer Science | Vellore Institute of Technology, Vellore (_May 2023_)
 
 ## Work Experience
 ### Software Development Engineer Intern @ Petrus Technologies (_Nov 2022 - Mar 2023_)

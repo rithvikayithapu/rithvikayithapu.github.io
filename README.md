@@ -3,20 +3,29 @@
 I'm Rithvik, currently pursuing Masters in Computer Science at NC State University. I am actively looking for 2024 software engineering summer internships. Feel free to reach out to me at my [email](rithvikayithapu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rithvikayithapu/).
 
 ## Education
-- Master's of Computer Science | North Carolina State University (_May 2025_)
-- Bachelor's of Technology in Computer Science | Vellore Institute of Technology, Vellore (_May 2023_)
+- Master's in Computer Science | North Carolina State University (_May 2025_)
+- Bachelor's in Computer Science | Vellore Institute of Technology, Vellore (_May 2023_)
 
 ## Work Experience
+
+### Software Developer (Graduate Research Assistant) @ NC State University (_May 2024 - Present_)
+- Worked alongside 35 others on the OpenPRA platform, a tool to perform Probabilistic Risk Assessment (PRA).
+- Employed **TypeScript, React, Nest.js and MongoDB** to develop the platform and **Nx** to build the monorepo.
+
+### Open Source Contributor @ Nutanix (_Aug 2023 - Dec 2023_)
+- Collaborated with software engineers to clarify requirements, deliberate design documents and implement solutions using **Golang** on NDB Operator.
+- Developed and tested a new **Kubernetes Operator** workflow automating the provisioning and management of Postgres HA database on NDB (Nutanix Database Service) via a Kubernetes cluster, reducing operational overhead of managing a database by **4%**.
+
 ### Software Development Engineer Intern @ Petrus Technologies (_Nov 2022 - Mar 2023_)
 - Achieved a **43%** increase in machine coverage on IoT platform PetrusConnect by implementing Edge Device Data Collector using **Java, Spring Boot and MariaDB**.
-- Designed and developed UI for displaying operational metrics collected from spinning machines with **React**.
+- Designed and developed UI for displaying vibrations trends in spinning machines with **React** to identify anomalous behavior.
 - Resolved memory leak in **Dockerized** data collectors causing production failure and ensured **99%** uptime.
 - Mentored 8 new hires from diverse backgrounds with Git version control and application architecture.
 
 ### Software Development Engineer Intern @ Podeum (_Mar 2022 - Apr 2022_)
-- Leveraged **React** to develop a portal for effortless data manipulation. Previously product team used Curl requests.
-- Scraped and summarized JSON data of Cricket matches with **Python** and queried it with **S3 Select** to boost social media engagement.
-- Implemented bug fixes and features on the application backend utilizing **Java, Dropwizard and MongoDB**.
+- Designed **REST APIs** for loading team and cricketer data on the backend using **Java, Spring Boot and MongoDB**.
+- Leveraged **React** to develop a portal with the team and cricketer REST APIs to ensure effortless data manipulation.
+- Scraped and summarized JSON data of Cricket matches with **Python** and queried it with **S3 Select** to boost social media engagement by **20%**.
 
 ## Skills
 ### Languages
@@ -27,14 +36,8 @@ REST API, AWS, Git, Spring Boot, Express.js, gRPC, Docker, Kubernetes, Kafka, Re
 Linux, Unix, Windows
 ### Databases
 MariaDB, PostgreSQL, MySQL, MongoDB
-### Certifications
-[AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/JLXMLFLDBNB4QBWS), [Udacity SUSE Cloud Native Architecture Nanodegree](https://www.udacity.com/certificate/GXDRCYAE)
 
 ## Projects
-**NDB Operator - Backend, Cloud Development**
-[GitHub](https://github.com/rithvikayithapu/ndb-operator)
-- Developed and tested a new **Golang** and **Kubernetes Operator SDK** workflow to provision Postgres HA databases.
-- Collaborated with Nutanix engineers to clarify requirements, deliberate design documents and implement the solution.
 
 **ClassMate - Full Stack Development**
 [GitHub](https://github.com/rithvikayithapu/ClassMate)
@@ -50,10 +53,10 @@ MariaDB, PostgreSQL, MySQL, MongoDB
 
 **DefinitionBot - Backend Development**
 [GitHub](https://github.com/rithvikayithapu/definitionBot)
-- Created a Telegram Bot with **Express.js, Telegram** and Merriam-Webster API to get the definition of a word.
-- Utilized **Axios** for API requests and returned definitions for English words within **3** seconds.
+- Created a Telegram Bot with **Express.js, Telegram** and **Axios** to get the definition of a word within **3** seconds.
 
-## Leadership and Activities
-**ACM-VIT | Core Committee Member**
-- Organized webinars, hackathons and events with participation of **200** attendees.
-- Mentored the web team of 6 members enhancing their technical skills and building a team player mindset.
+## Certifications
+### [Udacity SUSE Cloud Native Architecture Nanodegree](https://www.udacity.com/certificate/GXDRCYAE)
+- Certified in managing scalable applications in a cloud native environment, using ArgoCD, gRPC and Grafana.
+### [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/JLXMLFLDBNB4QBWS)
+- Certified in foundational understanding of AWS Cloud, services and terminology.

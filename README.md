@@ -16,13 +16,13 @@ I'm Rithvik, currently pursuing Masters in Computer Science at NC State Universi
 - Collaborated with software engineers to clarify requirements, deliberate design documents and implement solutions using **Golang** on NDB Operator.
 - Developed and tested a new **Kubernetes Operator** workflow automating the provisioning and management of Postgres HA database on NDB (Nutanix Database Service) via a Kubernetes cluster, reducing operational overhead of managing a database by **4%**.
 
-### Software Development Engineer Intern @ Petrus Technologies (_Nov 2022 - Mar 2023_)
+### Software Development Engineer Intern @ Petrus Technologies (_Nov 2022 - Apr 2023_)
 - Achieved a **43%** increase in machine coverage on IoT platform PetrusConnect by implementing Edge Device Data Collector using **Java, Spring Boot and MariaDB**.
 - Designed and developed UI for displaying vibrations trends in spinning machines with **React** to identify anomalous behavior.
 - Resolved memory leak in **Dockerized** data collectors causing production failure and ensured **99%** uptime.
 - Mentored 8 new hires from diverse backgrounds with Git version control and application architecture.
 
-### Software Development Engineer Intern @ Podeum (_Mar 2022 - Apr 2022_)
+### Software Development Engineer Intern @ Podeum (_Mar 2022 - Aug 2022_)
 - Designed **REST APIs** for loading team and cricketer data on the backend using **Java, Spring Boot and MongoDB**.
 - Leveraged **React** to develop a portal with the team and cricketer REST APIs to ensure effortless data manipulation.
 - Scraped and summarized JSON data of Cricket matches with **Python** and queried it with **S3 Select** to boost social media engagement by **20%**.

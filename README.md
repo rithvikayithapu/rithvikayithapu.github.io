@@ -58,5 +58,6 @@ MariaDB, PostgreSQL, MySQL, MongoDB
 ## Certifications
 ### [Udacity SUSE Cloud Native Architecture Nanodegree](https://www.udacity.com/certificate/GXDRCYAE)
 - Certified in managing scalable applications in a cloud native environment, using ArgoCD, gRPC and Grafana.
+
 ### [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/JLXMLFLDBNB4QBWS)
 - Certified in foundational understanding of AWS Cloud, services and terminology.

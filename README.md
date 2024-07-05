@@ -9,8 +9,9 @@ I'm Rithvik, currently pursuing Masters in Computer Science at NC State Universi
 ## Work Experience
 
 ### Software Developer (Graduate Research Assistant) @ NC State University (_May 2024 - Present_)
-- Worked alongside 35 others on the OpenPRA platform, a tool to perform Probabilistic Risk Assessment (PRA).
-- Employed TypeScript, React, Nest.js and MongoDB to develop the platform and Nx to build the monorepo.
+- Worked alongside 35 others on the OpenPRA platform, a tool to perform Probabilistic Risk Assessment (PRA)
+- Migrating the application from REST API to GraphQL to streamline the endpoints on the backend
+- Employed TypeScript, React, GraphQL, Nest.js and MongoDB to develop the platform
 
 ### Open Source Contributor @ Nutanix (_Aug 2023 - Dec 2023_)
 - Collaborated with software engineers to clarify requirements, deliberate design documents and implement solutions using Golang on NDB Operator.
@@ -29,15 +30,20 @@ I'm Rithvik, currently pursuing Masters in Computer Science at NC State Universi
 
 ## Skills
 ### Languages
-**Java, Python, Go, C/C++, JavaScript, HTML, CSS**
+**Python, Java, Go, C/C++, JavaScript, HTML, CSS, SQL**
 ### Frameworks and Tools
-**REST API, AWS, Git, Colab, Jupyter, Robolflow, Spring Boot, Express.js, gRPC, Docker, Kubernetes, Kafka, React, Tailwind CSS**
-### ML Frameworks
-**Tensorflow, Keras, Numpy, Pandas**
+**AWS, Express.js, Nest.js, Spring Boot, GraphQL, REST API, Git, GitHub, Docker, Kubernetes, Kafka, React, Tailwind CSS**
+### ML Tools and Frameworks
+**Tensorflow, Keras, Numpy, Pandas, Colab, Jupyter, Robolflow, LangChain, Ollama, Streamlit, Hugging Face**
 ### Databases
 **MariaDB, PostgreSQL, MySQL, MongoDB**
 
 ## Projects
+
+**[Llama3 Chat](https://github.com/rithvikayithapu/Llama3-Chat-App)**
+- Developed a chat app that can search the internet using Llama3, LangChain and Streamlit
+- Application uses LangChain’s AgentExecutor to chain LLM with Google Search tool
+- Agent also has message history to maintain context of conversation and returns response within 5 seconds
 
 **[Photonic Cavity Classifier](https://github.com/rithvikayithapu/Photonic-Cavity-Classifier)**
 - Trained a CNN model to distinguish successfully/unsuccessfully fabricated photonic cavities.

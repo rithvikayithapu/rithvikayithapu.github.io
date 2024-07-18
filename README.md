@@ -40,6 +40,11 @@ I'm Rithvik, currently pursuing Masters in Computer Science at NC State Universi
 
 ## Projects
 
+**[Medical Chatbot](https://github.com/rithvikayithapu/Medical-Chatbot)**
+- Developed a RAG app that can answer questions in the medical domain using Python, LangChain and Flask
+- Llama2 model answers queries using 7020 embeddings present in Pinecone vector store
+- Created embeddings from Gale medical encyclopedia using Sentence Transformer model from Hugging Face
+
 **[Llama3 Chat](https://github.com/rithvikayithapu/Llama3-Chat-App)**
 - Developed a chat app that can search the internet using Llama3, LangChain and Streamlit
 - Application uses LangChain’s AgentExecutor to chain LLM with Google Search tool
